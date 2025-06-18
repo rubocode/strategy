@@ -4,8 +4,8 @@
 
 ## The Art of Victory
 
-> It is better to light one candle than to complain about the darkness.  
-> **Swami Vivekananda**
+> Strategy requires thought, tactics require observation.  
+> **Max Euwe**
 
 * [Introduction](introduction)
 * [Fundamentals](fundamentals)
