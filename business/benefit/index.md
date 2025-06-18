@@ -4,8 +4,9 @@
 
 ## Benefit Optimization
 
-> Great designs come from great designers, not from great design processes.  
-> **Frederick P. Brooks, Jr.**
+> Design is not just what it looks like and feels like.  
+> Design is how it works.  
+> **Steve Jobs**
 
 You achieve better benefits by better design — better organization.  Better designs are simple, elegant and sophisticated.
 
