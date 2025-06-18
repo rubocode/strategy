@@ -7,9 +7,7 @@
 > I skate to where the puck is going to be, not where it has been.  
 > **Wayne Gretzky**
 
-* [The Kernel of Good Strategy](kernel)
-* [Hunters and Farmers](hunters)
-* [Success](success)
+| [Kernel](kernel) | [Hunters](hunters) | [Success](success) |
 
 Strategy is about how we act.  It is about how we decide on and achieve our aims.  We have to ask critical questions.
 
