@@ -11,4 +11,4 @@ You can’t do arbitrary things to overcome an obstacle.  Your actions must be c
 
 Otherwise, you’re just shooting in the dark.
 
-Use the diagnosis and the guiding policy as the light to design action to get out of the darkness and walk straight and fast.
+Use the diagnosis and the guiding policy as the light to design action to get out of the darkness and walk into the light. 
