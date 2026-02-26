@@ -1,4 +1,4 @@
-> [introduction](../)
+> [background](../)
 
 ![banner](/strategy/photos/banner.png)
 

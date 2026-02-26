@@ -8,6 +8,7 @@
 > **Max Euwe**
 
 * [Introduction](introduction)
+* [Background](background)
 * [Fundamentals](fundamentals)
 * [Military](military)
 * [Business](business)
