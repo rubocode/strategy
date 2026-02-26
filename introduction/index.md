@@ -1,6 +1,6 @@
 > [home](../)
 
-![banner](/strategy/photos/banner.png)
+![photo](/strategy/photos/general.png)
 
 ## Introduction
 
