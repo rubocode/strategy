@@ -10,5 +10,7 @@
 * [Introduction](introduction)
 * [Background](background)
 * [Fundamentals](fundamentals)
+* [Geopolitics](geopolitics)
+* [Ideology](ideology)
 * [Military](military)
 * [Business](business)
